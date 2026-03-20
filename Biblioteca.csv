@@ -20,14 +20,14 @@ ISBN,Libro,Genero,Autor,Editorial,Paginas,Estado,EsSerie,Serie,Volume
 9789877382457,Illuminae (Expediente #1),Ciencia Ficción,Amie Kaufman,Alfaguara,585,No leído,Serie,The Illuminae Files,1
 9788498386707,El Principito / The Little Prince,Clásico,Antoine De Saint-exupery,Salamandra Infantil y Juvenil,72,Leído,Autoconclusivo,No aplica,
 9789877470963,Wink Poppy Midnight,Realismo Mágico,April Genevieve Tucholke,V&R Editoras,248,Leído,Autoconclusivo,No aplica,
-9788466646390,Crescendo,Fantasia,Becca Fitzpatrick,Ediciones B,408,Leído,Serie,Hush, Hush,2
-9788493961305,Finale Hush Hush 4 / Hush Hush 4,Fantasia,Becca Fitzpatrick,B DE BOOKS,480,No leído,Serie,Hush, Hush,4
-9788466644174,Hush, Hush,Fantasia,Becca Fitzpatrick,Ediciones B,368,Leído,Serie,Hush, Hush,1
+9788466646390,Crescendo,Fantasia,Becca Fitzpatrick,Ediciones B,408,Leído,Serie,"Hush, Hush",2
+9788493961305,Finale Hush Hush 4 / Hush Hush 4,Fantasia,Becca Fitzpatrick,B DE BOOKS,480,No leído,Serie,"Hush, Hush",4
+9788466644174,"Hush, Hush",Fantasia,Becca Fitzpatrick,Ediciones B,368,Leído,Serie,"Hush, Hush",1
 9788416075690,Mentiras peligrosas,Misterio,Becca Fitzpatrick,B DE BOOKS,400,No leído,Autoconclusivo,No aplica,
-9789876272728,Silencio,Fantasia,Becca Fitzpatrick,Ediciones B,416,Leído,Serie,Hush, Hush,3
+9789876272728,Silencio,Fantasia,Becca Fitzpatrick,Ediciones B,416,Leído,Serie,"Hush, Hush",3
 9789874132086,Leah a destiempo,Contemporaneo,Becky Albertalli,Puck,320,No leído,Autoconclusivo,No aplica,
-9789874132710,Sí, no, tal vez,Contemporaneo,Becky Albertalli,EDICIONES URANO S.A.,416,No leído,Autoconclusivo,No aplica,
-9789507882630,Yo, Simon, Homo Sapiens,Contemporaneo,Becky Albertalli,Puck,282,Leído,Autoconclusivo,No aplica,
+9789874132710,"Sí, no, tal vez",Contemporaneo,Becky Albertalli,EDICIONES URANO S.A.,416,No leído,Autoconclusivo,No aplica,
+9789507882630,"Yo, Simon, Homo Sapiens",Contemporaneo,Becky Albertalli,Puck,282,Leído,Autoconclusivo,No aplica,
 9789874132154,¿Y si fuéramos nosotros?,Contemporaneo,Becky Albertalli,Puck,384,No leído,Serie,What If It's Us,1
 9788492918065,Una sonata de verano,Realismo Mágico,Belen Kaplan,EDICIONES URANO S.A.,280,No leído,Autoconclusivo,No aplica,
 9789878945316,El libro de la noche,Fantasia,Black Holly,EDICIONES URANO S.A.,416,No leído,Autoconclusivo,No aplica,
@@ -82,7 +82,7 @@ ISBN,Libro,Genero,Autor,Editorial,Paginas,Estado,EsSerie,Serie,Volume
 9788494172977,El secreto de Callie y Kayden,Contemporaneo,Jessica Sorensen,Oz Editorial,288,No leído,Serie,The Coincidence,2
 9788494112386,La coincidencia de Callie y Kayden,Contemporaneo,Jessica Sorensen,Oz Editorial,336,No leído,Serie,The Coincidence,1
 9788447329021,César Cascabel,Clásico,Jules Verne,RBA Coleccionables,447,No leído,Autoconclusivo,No aplica,
-9789878454023,A Sir Phillip, con amor,Contemporaneo,Julia Quinn,Titania,288,Leído,Autoconclusivo,No aplica,
+9789878454023,"A Sir Phillip, con amor",Contemporaneo,Julia Quinn,Titania,288,Leído,Autoconclusivo,No aplica,
 9789878454030,El Corazon De Una Bridgerton,Contemporaneo,Julia Quinn,Titania,320,Leído,Autoconclusivo,No aplica,
 9788416327850,Seduciendo a Mr. Bridgerton,Contemporaneo,Julia Quinn,Titania,352,Leído,Serie,Bridgertons,4
 9789874754585,El duque y yo,Contemporaneo,Julia Quinn,Titania,320,Leído,Autoconclusivo,No aplica,
@@ -133,7 +133,7 @@ ISBN,Libro,Genero,Autor,Editorial,Paginas,Estado,EsSerie,Serie,Volume
 9789877471915,Winter,Ciencia Ficción,Marissa Meyer,V&R Editoras,856,Leído,Serie,The Lunar Chronicles,4
 9789877473124,Wires and Nerve: Volume 1,Novela Gráfica,Marissa Meyer,V&R Editoras,240,Leído,Serie,Wires and Nerve,1
 9789877474053,Wires and Nerve: Volumen 2,Novela Gráfica,Marissa Meyer,V&R Editoras,336,Leído,Serie,Wires and Nerve,2
-9789878120232,Rojo, blanco y sangre azul,Contemporaneo,Casey McQuiston,Molino,496,Leído,Autoconclusivo,No aplica,
+9789878120232,"Rojo, blanco y sangre azul",Contemporaneo,Casey McQuiston,Molino,496,Leído,Autoconclusivo,No aplica,
 9789877472936,El final de nuestra historia,Contemporaneo,Meg Haston,V&R Editoras,312,No leído,Autoconclusivo,No aplica,
 9789876129077,Belzhar,Fantasia,Meg Wolitzer,V&R Editoras,320,No leído,Autoconclusivo,No aplica,
 9789877472622,Still Star-Crossed,Fantasia,Melinda Taub,V&R Editoras,376,No leído,Autoconclusivo,No aplica,
