@@ -190,3 +190,11 @@ iframe {
     justify-content: center; /* centra horizontal */
     align-items: center;     /* centra vertical */
 }
+
+
+.section-text {
+    margin-bottom: 20px;
+    margin-left: 20px;
+    font-size: 1rem;
+    color: #404040;
+}
